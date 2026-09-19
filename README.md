@@ -93,8 +93,6 @@
 
 </div>
 
-> Using [github-stats-extended](https://github.com/stats-organization/github-stats-extended) instead of the original github-readme-stats, which is currently paused by its maintainer due to hosting costs. Same parameters, more reliable uptime.
-
 ---
 
 ### 🤝 Connect

@@ -1,17 +1,13 @@
 <!-- ================================================================
-   GITHUB PROFILE README
-   How to use: create a repo with EXACTLY your GitHub username as the
-   name (e.g. if your username is "rahul-dev", repo = "rahul-dev"),
-   make it PUBLIC, add a README.md, and paste this whole file in.
-   GitHub will auto-render it on your profile page.
-   Replace every YOUR_USERNAME / YOUR_EMAIL / links below with your own.
+   GITHUB PROFILE README for Tushar2602331
+   Repo must be named EXACTLY: Tushar2602331 (public, with README.md)
    ================================================================ -->
 
 <div align="center">
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BTUSHAR+JOSHI%5D+%F0%9F%91%8B;BTech+Mech&Auto+%7C+First-Year+Builder;Turning+ideas+into+working+code;Currently%3A+Robotics+%2B+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tushar+Joshi+%F0%9F%91%8B;BTech+Mechatronics+%26+Automation;VIT+Chennai+%7C+First-Year+Builder;Recently%3A+Robotics+%2B+Web+Dev" alt="Typing SVG" />
 </a>
 
 <!-- Profile view counter -->
@@ -21,9 +17,23 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tushar2602331/Tushar2602331/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<!--
+  This image will look broken until you've set up the GitHub Actions
+  workflow that generates it. See the step-by-step guide for setting
+  it up — once the workflow runs successfully once, this loads fine.
+-->
+
+---
+
 ### ⚡ About Me
 
-- 🎓 First-year **BTech Mechatronics and Automation** student at VITC, learning fast and shipping faster
+- 🎓 First-year **BTech Mechatronics and Automation**, VIT Chennai
 - 🚀 Recently led a 4-person team through my **first hackathon** — built *ScholarSphere*, an AI-powered gamified & adaptive learning platform (Next.js + Supabase)
 - 🤖 Recently built a **robotic radar system** with Arduino — ultrasonic sensing, servo sweep, LED + buzzer proximity alerts
 - 🌱 Learning: embedded systems, control theory, and full-stack web dev
@@ -52,22 +62,25 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Tushar2602331/scholarsphere">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar2602331&repo=scholarsphere&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Tushar2602331/arduino-radar">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar2602331&repo=arduino-radar&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 **Note:** the pinned-repo cards above only render once those repos actually exist under your account with those exact names — update `repo=` to match.
-
 - **🧭 ScholarSphere** — AI-powered gamified & adaptive learning platform (Next.js, Supabase, Google AI Studio for question generation). Built in 48 hours as team lead for my first hackathon.
+  <!-- once you push this to GitHub, replace this line with:
+  🔗 https://github.com/Tushar2602331/REPO-NAME -->
 - **📡 Arduino Radar System** — Servo-driven ultrasonic radar with a tri-color LED + buzzer distance alert (green → safe, yellow → caution, red + buzzer → too close). A hands-on mechatronics build combining sensing, actuation, and control logic.
+  <!-- once you push this to GitHub, replace this line with:
+  🔗 https://github.com/Tushar2602331/REPO-NAME -->
+
+<!--
+  PINNED REPO CARDS (add these back in once both projects are pushed as
+  public repos on your account — replace REPO-NAME with the actual repo):
+
+  <a href="https://github.com/Tushar2602331/REPO-NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar2602331&repo=REPO-NAME&theme=tokyonight&hide_border=true" />
+  </a>
+
+  These 404/appear broken until the repo exists under your account with
+  that exact name — that's almost certainly why they weren't loading.
+-->
+
 
 ---
 
@@ -75,21 +88,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar2602331&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar2602331&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar2602331&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar2602331&theme=tokyonight&hide_border=true" />
-
 </div>
 
----
-
-### 🐍 Contribution Snake (animated)
-
-<!-- Set up via GitHub Actions — instructions below -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tushar2602331/Tushar2602331/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+> ⚠️ These load from a free, shared public service (github-readme-stats.vercel.app) that's known to hit rate limits and go down temporarily — if a card shows broken here, it's the service, not your setup. Wait a bit and refresh.
 
 ---
 
@@ -97,13 +101,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-joshi-05b572438/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-joshi-05b572438/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushar.joshi2026@vitstudent.ac.in)
 
 </div>
 
 <div align="center">
 
-![Snake animation is live!](https://img.shields.io/badge/dynamic-profile-00F7FF?style=for-the-badge&label=Status&message=Building%20in%20Public)
+![Status](https://img.shields.io/badge/dynamic-profile-00F7FF?style=for-the-badge&label=Status&message=Building%20in%20Public)
 
 </div>
+

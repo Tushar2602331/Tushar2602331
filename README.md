@@ -74,7 +74,7 @@
   public repos on your account — replace REPO-NAME with the actual repo):
 
   <a href="https://github.com/Tushar2602331/REPO-NAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar2602331&repo=REPO-NAME&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Tushar2602331&repo=REPO-NAME&theme=tokyonight&hide_border=true" />
   </a>
 
   These 404/appear broken until the repo exists under your account with
@@ -88,12 +88,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar2602331&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar2602331&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Tushar2602331&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tushar2602331&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-> ⚠️ These load from a free, shared public service (github-readme-stats.vercel.app) that's known to hit rate limits and go down temporarily — if a card shows broken here, it's the service, not your setup. Wait a bit and refresh.
+> Using [github-stats-extended](https://github.com/stats-organization/github-stats-extended) instead of the original github-readme-stats, which is currently paused by its maintainer due to hosting costs. Same parameters, more reliable uptime.
 
 ---
 
